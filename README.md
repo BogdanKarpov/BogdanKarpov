@@ -6,7 +6,7 @@ Feel free to learn more & connect with me:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-bogdankarpov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bogdan-karpov/)](https://www.linkedin.com/in/bogdan-karpov/)
-[![Gmail Badge](https://img.shields.io/badge/-bkarpov86@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bkarpov86@gmail.com)](mailto:bog.kpv@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-bog.kpv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bog.kpv@gmail.com)](mailto:bog.kpv@gmail.com)
 
 
 ## ⚡ Languages & Tools:
