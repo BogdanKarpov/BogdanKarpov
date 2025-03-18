@@ -1,12 +1,12 @@
 ##  Hi there! I am Bogdan Karpov 👋 
 
-I'm QA Automation Engineer with 5 years of software development and testing experience, specializing in automating web and performance tests, creating tools, and streamlining deployment processes in support of software development lifecycles.
+I'm QA Automation Engineer with 8 years of software development and testing experience, specializing in automating web and performance tests, creating tools, and streamlining deployment processes in support of software development lifecycles.
 
 Feel free to learn more & connect with me:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-bogdankarpov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bogdan-karpov/)](https://www.linkedin.com/in/bogdan-karpov/)
-[![Gmail Badge](https://img.shields.io/badge/-bkarpov86@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bkarpov86@gmail.com)](mailto:bkarpov86@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-bkarpov86@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bkarpov86@gmail.com)](mailto:bog.kpv@gmail.com)
 
 
 ## ⚡ Languages & Tools:
